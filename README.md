@@ -1,1 +1,1 @@
-# Application Release Automation - Real Time Project..!
+# Application Release Automation - Real Time project scenario..!
